@@ -7,8 +7,8 @@
         font-size:18px;
     }
 
-    .Quote__author{
-        font-size:13px; 
+    .Quote__author {
+        font-size:12px; 
     }
     
 }
@@ -23,8 +23,8 @@
         font-size:25px;
     }
 
-    .Quote__author{
-        font-size:15pz; 
+    .Quote__author {
+        font-size:15px; 
     }
   }
   
@@ -33,12 +33,12 @@
         width:50%;
     }
     
-    .Quote__text{
-        font-size:25px;
+    div.Quote__text{
+        font-size:29px;
     }
 
     .Quote__author{
-        font-size:15pz; 
+        font-size:15px; 
     }
     
   }
@@ -49,11 +49,11 @@
     }
     
     .Quote__text{
-        font-size:25px;
+        font-size:30px;
     }
 
     .Quote__author{
-        font-size:15pz; 
+        font-size:18px; 
     }
     
   }
