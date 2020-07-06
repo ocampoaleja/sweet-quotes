@@ -1,15 +1,46 @@
+@import '../../queries/queries.css';
+
 .Quote {
     padding: 25px;
     background: rgba(0, 0, 0, 0.6);
 }
 
+
 .Quote__text {
     font-size: 30px;
     color: white;
+    animation:3s slideIn;
 }
 
 .Quote__author {
     font-size: 18px;
     color: white;
     font-style: italic;
+    animation:3s slideBottom;
+}
+
+@keyframes slideIn {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+
+@keyframes slideBottom{
+    from{
+       position:relative;
+       right:100%;
+    
+    }
+    
+    to{
+        position:relative;
+        right:0%;
+        
+    }
 }
