@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sweet-quotes/static/css/main.ae5b7ad7.chunk.css",
-    "main.js": "/sweet-quotes/static/js/main.e5e6d5fe.chunk.js",
-    "main.js.map": "/sweet-quotes/static/js/main.e5e6d5fe.chunk.js.map",
+    "main.css": "/sweet-quotes/static/css/main.b6e53ac9.chunk.css",
+    "main.js": "/sweet-quotes/static/js/main.87133f3d.chunk.js",
+    "main.js.map": "/sweet-quotes/static/js/main.87133f3d.chunk.js.map",
     "runtime-main.js": "/sweet-quotes/static/js/runtime-main.81168549.js",
     "runtime-main.js.map": "/sweet-quotes/static/js/runtime-main.81168549.js.map",
     "static/js/2.c7732698.chunk.js": "/sweet-quotes/static/js/2.c7732698.chunk.js",
     "static/js/2.c7732698.chunk.js.map": "/sweet-quotes/static/js/2.c7732698.chunk.js.map",
     "index.html": "/sweet-quotes/index.html",
-    "precache-manifest.2530d0557bd24792e7b1a62d170c927d.js": "/sweet-quotes/precache-manifest.2530d0557bd24792e7b1a62d170c927d.js",
+    "precache-manifest.c671a86a0c35a9d79e983a167a5594f6.js": "/sweet-quotes/precache-manifest.c671a86a0c35a9d79e983a167a5594f6.js",
     "service-worker.js": "/sweet-quotes/service-worker.js",
-    "static/css/main.ae5b7ad7.chunk.css.map": "/sweet-quotes/static/css/main.ae5b7ad7.chunk.css.map",
+    "static/css/main.b6e53ac9.chunk.css.map": "/sweet-quotes/static/css/main.b6e53ac9.chunk.css.map",
     "static/js/2.c7732698.chunk.js.LICENSE.txt": "/sweet-quotes/static/js/2.c7732698.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.81168549.js",
     "static/js/2.c7732698.chunk.js",
-    "static/css/main.ae5b7ad7.chunk.css",
-    "static/js/main.e5e6d5fe.chunk.js"
+    "static/css/main.b6e53ac9.chunk.css",
+    "static/js/main.87133f3d.chunk.js"
   ]
 }

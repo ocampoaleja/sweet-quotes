@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d57ec16c4ab12c3eb63a7e23cb48f7e",
+    "revision": "0e6a1348d6c9a8438ce3bc55da096578",
     "url": "/sweet-quotes/index.html"
   },
   {
-    "revision": "10123fce22fcc0fc5953",
-    "url": "/sweet-quotes/static/css/main.ae5b7ad7.chunk.css"
+    "revision": "3d7b0ceff769bdda0903",
+    "url": "/sweet-quotes/static/css/main.b6e53ac9.chunk.css"
   },
   {
     "revision": "ceb539af8f51a187dba4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sweet-quotes/static/js/2.c7732698.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10123fce22fcc0fc5953",
-    "url": "/sweet-quotes/static/js/main.e5e6d5fe.chunk.js"
+    "revision": "3d7b0ceff769bdda0903",
+    "url": "/sweet-quotes/static/js/main.87133f3d.chunk.js"
   },
   {
     "revision": "7ed7f0f3bfcab6cd5848",
