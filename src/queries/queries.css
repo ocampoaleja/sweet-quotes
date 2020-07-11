@@ -1,21 +1,21 @@
 @media only screen and (max-width:599px){
     .Quote{
-        width:50%;
+        width:80%;
     }
     
     .Quote__text {
-        font-size:18px;
+        font-size:26px;
     }
 
     .Quote__author {
-        font-size:12px; 
+        font-size:15px; 
     }
     
 }
   
  @media only screen and (min-width:600px){
     .Quote{
-        width:55%;
+        width:85%;
     }
     
     .Quote__text{
@@ -23,7 +23,7 @@
     }
 
     .Quote__author {
-        font-size:15px; 
+        font-size:17px; 
     }
   }
   
