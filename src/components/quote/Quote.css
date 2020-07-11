@@ -31,12 +31,10 @@
     from{
        position:relative;
        right:100%;
-    
     }
     
     to{
         position:relative;
         right:0%;
-        
     }
 }

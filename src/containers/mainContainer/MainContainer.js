@@ -15,10 +15,8 @@ const MainContainer = () => {
         try {
             const response = await fetch(url);
             const quotes = await response.json();
-
-
+        
             const index =parseInt(Math.random() * url.length);
-
 
             if (quotes && quotes.length > 0) {
                 setQuote(quotes[index]);
