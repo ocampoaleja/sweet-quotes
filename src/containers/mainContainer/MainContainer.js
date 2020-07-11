@@ -16,9 +16,8 @@ const MainContainer = () => {
             const response = await fetch(url);
             const quotes = await response.json();
 
-            //TODO: Get the quotes lenth and generate a random index.
+
             const index =parseInt(Math.random() * url.length);
-            console.log(index)
 
 
             if (quotes && quotes.length > 0) {
@@ -39,9 +38,7 @@ const MainContainer = () => {
         }
     }, [setQuote])
 
-    //TODO: Add to the BackgroundImage component a category attribute and then
-    // the BackgroundImage will render an image related to the category.
-    // e.g. technology, nature, people, etc...
+
     const categories= ['technology','music','art']
 
     return (
